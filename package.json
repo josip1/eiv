@@ -1,5 +1,4 @@
-{
-  "name": "Electronic-invoice-verification",
+{"name": "Electronic-invoice-verification",
   "version": "1.0.0",
   "description": "",
   "main": "nodeclient.js",
